@@ -21,7 +21,7 @@
         android:textSize="50dp"
         />
 
-    <com.beardedhen.androidbootstrap.BootstrapButton
+    <!--<com.beardedhen.androidbootstrap.BootstrapButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BootstrapButton"
@@ -32,7 +32,7 @@
         app:roundedCorners="true"
         android:layout_margin="10dp"
         app:bootstrapText="Button  {fa_heart} {fa_android}"
-        />
+        />-->
 
 
     <com.beardedhen.androidbootstrap.BootstrapProgressBar
@@ -55,7 +55,7 @@
         app:fontAwesomeIcon="fa_android"
         tools:ignore="SpUsage"
         />
-    <com.beardedhen.androidbootstrap.BootstrapLabel
+    <!--<com.beardedhen.androidbootstrap.BootstrapLabel
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:bootstrapBrand="primary"
@@ -63,7 +63,7 @@
         app:roundedCorners="true"
         android:text="Bootstrap Label"
         android:layout_margin="10dp"
-        />
+        />-->S
 
     <com.beardedhen.androidbootstrap.BootstrapEditText
         android:layout_width="wrap_content"
